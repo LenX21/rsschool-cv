@@ -2,6 +2,7 @@
 [About](#about)\
 [Contact](#contact)\
 [Languages](#languages)\
+[Skills](#skills)
 [Education](#education)
 **********
 
@@ -17,6 +18,14 @@ I enjoy learning new technologies and complex concepts. Constantly trying to get
 English - Advanced (according to the online test at EFset)\
 ![EFset Score](/img/eng_level.png)
 Russian - Native
+
+## Skills
+- HTML
+- CSS
+- React
+- Python
+- JavaScript 
+- TypeScript
 
 ## Education
 Chita State University
