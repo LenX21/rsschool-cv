@@ -2,7 +2,8 @@
 [About](#about)\
 [Contact](#contact)\
 [Languages](#languages)\
-[Skills](#skills)
+[Skills](#skills)\
+[Code Example](#code-example)\
 [Education](#education)
 **********
 
@@ -26,6 +27,13 @@ Russian - Native
 - Python
 - JavaScript 
 - TypeScript
+
+## Code Example
+```
+function multiply(a, b){
+  return a * b
+}
+```
 
 ## Education
 Chita State University
