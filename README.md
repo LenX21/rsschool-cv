@@ -2,5 +2,5 @@
 JSFE2022Q1 - CV
 
 
-## itHub Pages 
-https://github.com/LenX21/rsschool-cv/cv
+## Hub Pages 
+https://lenx21.github.io/rsschool-cv/cv
