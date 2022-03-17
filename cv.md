@@ -5,7 +5,6 @@
 [Skills](#skills)\
 [Code Example](#code-example)\
 [Education](#education)
-**********
 
 ## About
 I enjoy learning new technologies and complex concepts. Constantly trying to get out of the comfort zone, taking on new tasks and responsibilities.
